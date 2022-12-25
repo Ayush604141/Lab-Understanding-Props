@@ -1,0 +1,10 @@
+/* add your styles here */
+.gridElement{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    column-gap: 2px;
+    width: 75%;
+    float: none;
+    position: relative;
+    left: 6%;
+}
